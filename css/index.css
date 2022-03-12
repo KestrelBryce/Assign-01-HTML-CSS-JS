@@ -1,0 +1,14 @@
+body {
+	background-color: Crimson;
+}
+
+h1 {
+	background-color: rgb(222, 0, 41, 225);
+	color: hsl(145, 63%, 32%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #fff700;
+}
